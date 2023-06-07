@@ -37,16 +37,6 @@ function calculator(operator,numb1,numb2,ans,factorial,vari){
     console.log(factorial);break;
       default
       :console.error('invalid operator');
-      
-      
-   }}
- function sorter(){
- let numbers = [34 , 34, 545,324, 435,32454,546 ]
- let x
- for (x=1;x<= 6;x++){
- console.log(numbers[x]);
-}
-}
-function sorter()
-
-   
+}  
+    }
+calculator();
